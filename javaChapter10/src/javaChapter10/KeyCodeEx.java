@@ -2,6 +2,7 @@ package javaChapter10;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+
 public class KeyCodeEx extends JFrame {
 	JPanel contentPane = new JPanel();
 	JLabel la = new JLabel();
