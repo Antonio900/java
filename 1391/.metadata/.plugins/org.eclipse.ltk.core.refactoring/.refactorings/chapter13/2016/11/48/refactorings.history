@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chapter13.MyLabel&apos; to &apos;TabAndThreadEx&apos;&#x0D;&#x0A;- Original project: &apos;chapter13&apos;&#x0D;&#x0A;- Original element: &apos;chapter13.MyLabel&apos;&#x0D;&#x0A;- Renamed element: &apos;chapter13.TabAndThreadEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyLabel&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chapter13{MyLabel.java[MyLabel" matchStrategy="1" name="TabAndThreadEx" qualified="false" references="true" similarDeclarations="false" stamp="1479872182075" textual="false" version="1.0"/>
+</session>
